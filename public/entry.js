@@ -66,11 +66,12 @@ function CreateBot() {
   bot.login(`${botKey}`).catch(console.error);
   bot.on("ready", async () => {
     //Set bot card information
-    bot.user.setPresence({ activities: [{name: 'Type "$pinsir help" for more info.', 
-      }],
-      status: 'Downloading ALL THE INTERNET'
-    });
-    console.log("This bot is active!");
+    bot.user.setPresence({ activities: [{name: 'Dani\'s homies!.', 
+    type: ActivityType.Listening
+    }],
+    status: 'Downloading ALL THE INTERNET!'
+  });
+  console.log("This bot is active!");
 
     //Slash commands
     //new WOKCommands(bot, {
