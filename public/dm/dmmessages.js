@@ -298,7 +298,7 @@ function SendCommandMessages(message) {
           inline: false
         }
       )
-      message.author.send({embeds: [gamine]});
+      message.author.send({embeds: [gaming]});
 
   var pokemon = 
     new Discord.EmbedBuilder()
@@ -516,7 +516,7 @@ function SendCommandMessages(message) {
       )
   message.author.send({embeds: [dank]});
       }
-      
+
 // Return Jargon DM. Needs refactor.
 function JargonMessage(message) {
   const Embed = new Discord.EmbedBuilder()
