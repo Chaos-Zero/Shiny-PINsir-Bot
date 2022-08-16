@@ -1,0 +1,123 @@
+[
+  {
+    "Number": "26",
+    "Pokemon": "Raichu",
+    "Ball1": "Level",
+    "Ball2": "Luxury",
+    "Ball3": "Ultra",
+    "FullEvolution": "",
+    "EvoBall": "",
+    "AltEvolution": "",
+    "AltEvoBall": ""
+  },
+  {
+    "Number": "27",
+    "Pokemon": "Sandshrew",
+    "Ball1": "Dive",
+    "Ball2": "Net",
+    "Ball3": "Premier",
+    "FullEvolution": "Sandslash",
+    "EvoBall": "Dive",
+    "AltEvolution": "",
+    "AltEvoBall": ""
+  },
+  {
+    "Number": "28",
+    "Pokemon": "Sandslash",
+    "Ball1": "Dive",
+    "Ball2": "Net",
+    "Ball3": "Premier",
+    "FullEvolution": "",
+    "EvoBall": "",
+    "AltEvolution": "",
+    "AltEvoBall": ""
+  },
+  {
+    "Number": "37",
+    "Pokemon": "Vulpix",
+    "Ball1": "Dive",
+    "Ball2": "Premier",
+    "Ball3": "",
+    "FullEvolution": "Ninetales",
+    "EvoBall": "Premier",
+    "AltEvolution": "",
+    "AltEvoBall": ""
+  },
+  {
+    "Number": "38",
+    "Pokemon": "Ninetales",
+    "Ball1": "Dream",
+    "Ball2": "Premier",
+    "Ball3": "Moon",
+    "FullEvolution": "",
+    "EvoBall": "",
+    "AltEvolution": "",
+    "AltEvoBall": ""
+  },
+  {
+    "Number": "50",
+    "Pokemon": "Diglett",
+    "Ball1": "Level",
+    "Ball2": "Repeat",
+    "Ball3": "Ultra",
+    "FullEvolution": "Dugtrio",
+    "EvoBall": "Level",
+    "AltEvolution": "",
+    "AltEvoBall": ""
+  },
+  {
+    "Number": "51",
+    "Pokemon": "Dugtrio",
+    "Ball1": "Level",
+    "Ball2": "Repeat",
+    "Ball3": "Fast",
+    "FullEvolution": "",
+    "EvoBall": "",
+    "AltEvolution": "",
+    "AltEvoBall": ""
+  },
+  {
+    "Number": "52",
+    "Pokemon": "Meowth",
+    "Ball1": "Moon",
+    "Ball2": "Great",
+    "Ball3": "",
+    "FullEvolution": "Persian",
+    "EvoBall": "Moon",
+    "AltEvolution": "",
+    "AltEvoBall": ""
+  },
+  {
+    "Number": "53",
+    "Pokemon": "Persian",
+    "Ball1": "Moon",
+    "Ball2": "Great",
+    "Ball3": "",
+    "FullEvolution": "",
+    "EvoBall": "",
+    "AltEvolution": "",
+    "AltEvoBall": ""
+  },
+  {
+    "Number": "103",
+    "Pokemon": "Exeggutor",
+    "Ball1": "Fast",
+    "Ball2": "Repeat",
+    "Ball3": "Level",
+    "FullEvolution": "",
+    "EvoBall": "",
+    "AltEvolution": "",
+    "AltEvoBall": ""
+  },
+  {
+    "Number": "105",
+    "Pokemon": "Marowak",
+    "Ball1": "Master",
+    "Ball2": "Moon",
+    "Ball3": "Luxury",
+    "FullEvolution": "",
+    "EvoBall": "",
+    "AltEvolution": "",
+    "AltEvoBall": ""
+  }
+]
