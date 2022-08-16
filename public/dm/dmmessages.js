@@ -514,7 +514,6 @@ function SendCommandMessages(message) {
         text: "danimyuu ♡",
         iconURL: "https://cdn.glitch.com/37568bfd-6a1d-4263-868a-c3b4d503a0b1%2FMewditto.png?v=1609471789850"}
       )
-  );
   message.author.send({embeds: [dank]});
 
 // Return Jargon DM. Needs refactor.
