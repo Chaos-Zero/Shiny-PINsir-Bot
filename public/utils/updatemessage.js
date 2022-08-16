@@ -47,7 +47,7 @@ const secondHalf =
 function SendAnnouncement(message) {
   var channel = GetChannelByName(message, "❥-announcements");
   var user = "<@" + "268487608680579072" + ">";
-  channel.send(pinsirUpdateMessage + user + secondHalf, {
+  channel.send({ content: pinsirUpdateMessage + user + secondHalf,
     files: [
       "https://cdn.glitch.com/37568bfd-6a1d-4263-868a-c3b4d503a0b1%2FmlgBot.png?v=1611365650964"
     ]

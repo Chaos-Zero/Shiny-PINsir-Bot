@@ -244,7 +244,7 @@ function DmSend(message) {
       .map(member => member.user);
     for (let i = 0; i < roleMembers.length; i++) {
       console.log("Message sent to: " + roleMembers[i].username);
-      roleMembers[i].send("You've been MEATBALLED", {
+      roleMembers[i].send( { content : "You've been MEATBALLED",
         files: [
           "https://cdn.glitch.com/37568bfd-6a1d-4263-868a-c3b4d503a0b1%2FMeatballed.gif?v=1609553498357"
         ]
@@ -301,7 +301,7 @@ function SusImage(message) {
       var meme = JSON.parse(body);
 
       if (!error && response.statusCode == 200) {
-        message.channel.send("", {
+        message.channel.send({ content: "",
           files: [meme.data.url]
         });
       }
@@ -314,7 +314,7 @@ async function Meatballed(message, users) {
 
   let sendMessageFunction = function(message, sanitisedUserId) {
     message.client.users.fetch(sanitisedUserId).then(user => {
-      user.send(name + " got you!\nYou've been **MEATBALLED**", {
+      user.send({ content: name + " got you!\nYou've been **MEATBALLED**",
         files: [
           "https://cdn.glitch.com/37568bfd-6a1d-4263-868a-c3b4d503a0b1%2FPinMeatballed.gif?v=1609600983767"
         ]
