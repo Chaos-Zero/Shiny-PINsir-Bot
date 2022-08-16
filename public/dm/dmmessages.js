@@ -217,8 +217,8 @@ function SendCommandMessages(message) {
   //    })
   //);
 
-  message.author.send(
-    new Discord.EmbedBuilder()
+ 
+    var descript = new Discord.EmbedBuilder()
       .setTitle("PINsir-bot")
       .setColor("0xe69500")
       .setThumbnail(
@@ -228,10 +228,10 @@ function SendCommandMessages(message) {
         "PINsir-Bot is our exclusive server bot which has some helpful features! Just start your message with any of the following.\n All PINsir commands from the DM can be accessed directly from the server by using `$pinsir [command]`.\n" +
           "If a command has and entry encloised in [], this needs to be replaced with the contents you want to use (example: `$pinsir number [Pokémon name/number]` becomes `$pinsir number bulbasaur`). You do not have to include the [].\nPINsir also sends DM's so make sure you can receive DM's from this server.\n\n"
       )
-  );
+      message.author.send({embeds: [descript]});
 
-  message.author.send(
-    {embeds: new Discord.EmbedBuilder()
+  var base = 
+    new Discord.EmbedBuilder()
       .setTitle("Base Commands")
       .setColor("0x005ce6")
       .setThumbnail(
@@ -260,10 +260,10 @@ function SendCommandMessages(message) {
           inline: false
         }
       )
-      });
+      message.author.send({embeds: [base]});
   
-    message.author.send(
-      {embeds: new Discord.EmbedBuilder()
+    var gaming = 
+    new Discord.EmbedBuilder()
       .setTitle("Gaming Commands")
       .setColor("0xcc3300")
       .setThumbnail(
@@ -298,10 +298,10 @@ function SendCommandMessages(message) {
           inline: false
         }
       )
-      });
+      message.author.send({embeds: [gamine]});
 
-  message.author.send(
-    {embeds: new Discord.EmbedBuilder()
+  var pokemon = 
+    new Discord.EmbedBuilder()
       .setTitle("Pokémon Commands")
       .setColor("0xffd700")
       .setThumbnail(
@@ -478,10 +478,10 @@ function SendCommandMessages(message) {
         //  inline: false
         //}
       )
-      });
+      message.author.send({embeds: [pokemon]});
 
-  message.author.send(
-    {embeds: new Discord.EmbedBuilder()
+  var dank = 
+    new Discord.EmbedBuilder()
       .setTitle("Dank Commands")
       .setColor("0x00e673")
       .setThumbnail(
@@ -514,8 +514,8 @@ function SendCommandMessages(message) {
         text: "danimyuu ♡",
         iconURL: "https://cdn.glitch.com/37568bfd-6a1d-4263-868a-c3b4d503a0b1%2FMewditto.png?v=1609471789850"}
       )
-      });
-}
+  );
+  message.author.send({embeds: [dank]});
 
 // Return Jargon DM. Needs refactor.
 function JargonMessage(message) {
