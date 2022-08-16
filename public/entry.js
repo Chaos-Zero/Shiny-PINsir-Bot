@@ -31,6 +31,7 @@ DbDefaultSetup(db);
 function GetDb() {
   return db;
 }
+
 // Stops the bot from cheking messages if something is found.
 var stringFound = false;
 
@@ -82,6 +83,7 @@ function CreateBot() {
 
 async function FetchSerebii() {
   serebiiNewsHtml = await GetSerebii("https://serebii.net/");
+  console.log(serebiiNewsHtml)
 }
 
 async function SetErEntries() {
