@@ -219,6 +219,44 @@ async function SendSound(db, message) {
 		player.on(DiscordMusicPlayer.AudioPlayerStatus.Idle, () => {
 			StopSound(message)
 		});
+  
+  
+  
+  
+  
+    //const connection = joinVoiceChannel({channelId:voiceChannel.id, guildId: message.guildId, adapterCreator: message.guild.voiceAdapterCreator, selfDeaf: false})
+    
+    //const stream =  ytdl(user.url, { filter: 'audioonly' });
+    
+		//const player = createAudioPlayer();
+		//const resource = createAudioResource(stream);
+    
+    //player.play(resource);
+		//connection.subscribe(player);
+
+		//player.on(Discord.AudioPlayerStatus.Idle, () => {
+		//	connection.destroy();
+		//});
+  
+  
+  
+    //.then(connection => {
+    //  const dispatcher = connection.play(
+    //    ytdl(
+    //      user.url,
+    //      {
+    //       filter: "audio",
+    //        quality: "highestaudio",
+    //        highWaterMark: 1 << 25
+    //      },
+    //      { volume: 0.15 }
+    //    )
+    //  );
+    //  dispatcher.on("end", end => {
+    //    voiceChannel.leave();
+    //  });
+    //})
+    //.catch(console.error);
 }
 
 function StopSound(message) {
