@@ -33,6 +33,13 @@ function GetChannelByName(message, channelString) {
   return channel;
 }
 
+function GetChannelByNameWithoutMessage ( bot, channelString ){
+  var channel = bot.channels.cache.find(
+    ch => ch.name === channelString
+  );
+  return channel
+}
+
 function MoveMessage(message, channelString, canMove) {
   try {
     message.guild.channels.cache
