@@ -231,7 +231,7 @@ function SendCommandMessages(message) {
   );
 
   message.author.send(
-    new Discord.EmbedBuilder()
+    {embeds: new Discord.EmbedBuilder()
       .setTitle("Base Commands")
       .setColor("0x005ce6")
       .setThumbnail(
@@ -260,10 +260,10 @@ function SendCommandMessages(message) {
           inline: false
         }
       )
-  );
+      });
   
     message.author.send(
-    new Discord.EmbedBuilder()
+      {embeds: new Discord.EmbedBuilder()
       .setTitle("Gaming Commands")
       .setColor("0xcc3300")
       .setThumbnail(
@@ -298,10 +298,10 @@ function SendCommandMessages(message) {
           inline: false
         }
       )
-  );
+      });
 
   message.author.send(
-    new Discord.EmbedBuilder()
+    {embeds: new Discord.EmbedBuilder()
       .setTitle("Pokémon Commands")
       .setColor("0xffd700")
       .setThumbnail(
@@ -478,10 +478,10 @@ function SendCommandMessages(message) {
         //  inline: false
         //}
       )
-  );
+      });
 
   message.author.send(
-    new Discord.EmbedBuilder()
+    {embeds: new Discord.EmbedBuilder()
       .setTitle("Dank Commands")
       .setColor("0x00e673")
       .setThumbnail(
@@ -514,7 +514,7 @@ function SendCommandMessages(message) {
         text: "danimyuu ♡",
         iconURL: "https://cdn.glitch.com/37568bfd-6a1d-4263-868a-c3b4d503a0b1%2FMewditto.png?v=1609471789850"}
       )
-  );
+      });
 }
 
 // Return Jargon DM. Needs refactor.
