@@ -386,8 +386,8 @@ async function UpdateAndSendDbEmbeds(db, bot, date, discordPosts) {
 
 function sendSerbiiMessages(bot, discordPosts) {
   var channel = GetChannelByNameWithoutMessage(bot, "○-serebii-news");
-  for (var i = 0; i < discordPosts.length; i++) {
+  for (var i = discordPosts.length; i > 0; i--) {
     console.log("Sending Message: " + i);
-    channel.send(discordPosts[i]);
+    channel.send(discordPosts[i-1]);
   }
 }
