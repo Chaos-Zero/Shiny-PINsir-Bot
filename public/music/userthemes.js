@@ -47,7 +47,7 @@ async function UserTheme(db, message) {
 
 async function SaveVideoUrl(db, message, url) {
   message.delete();
-  if (url == "https://www.youtube.com/watch?v=dQw4w9WgXcQ" || url == "https://www.youtube.com/watch?v=iik25wqIuFo" || url == "https://www.youtube.com/watch?v=oHg5SJYRHA0") {
+  if (url == "https://www.youtube.com/watch?v=dQw4w9WgXcQ" || url == "https://www.youtube.com/watch?v=iik25wqIuFo" || url == "https://www.youtube.com/watch?v=oHg5SJYRHA0" || url == "https://youtu.be/dQw4w9WgXcQ" || url == "https://youtu.be/iik25wqIuFo" || url == "https://youtu.be/oHg5SJYRHA0") {
     message.
   channel.send({ content: "**NO U**", 
       files: [

@@ -83,10 +83,10 @@ function CreateBot() {
   return bot;
 }
 
-async function FetchSerebii() {
-  serebiiNewsHtml = await GetSerebii("https://serebii.net/");
-  console.log(serebiiNewsHtml)
-}
+//async function FetchSerebii() {
+//  serebiiNewsHtml = await GetSerebii("https://serebii.net/");
+//  console.log(serebiiNewsHtml)
+//}
 
 async function SetErEntries() {
   erBosses = await GetBosses();
@@ -265,6 +265,10 @@ async function CheckForCommand(message, channel, bot) {
         SusImage(message);
         DeletePinsirCommand(message);
         break;
+      case "ai":
+        getAi(message);
+        //DeletePinsirCommand(message);
+      break;
       case "shame":
         var name = argument[2] != null ? argument[2] : "FAM";
         if (argument[2].toLowerCase().includes("pinsir")) {

@@ -49,6 +49,7 @@ eval(fs.readFileSync("./public/kitsu/kitsuutils.js") + "");
 eval(fs.readFileSync("./public/ac/ac.js") + "");
 eval(fs.readFileSync("./public/eldenring/er.js") + "");
 eval(fs.readFileSync("./public/music/userthemes.js") + "");
+eval(fs.readFileSync("./public/openai/openai.js") + "");
 
 eval(fs.readFileSync("./public/dm/dmmessages.js") + "");
 eval(fs.readFileSync("./public/help/helpembeds.js") + "");

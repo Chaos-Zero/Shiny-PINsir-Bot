@@ -6,8 +6,6 @@ const embedColours = {
   games: "0x3498DB", //Blue
   "pokémon of the week": "0xF1C40F", // Gold
   "pokemon of the week": "0xF1C40F", // Gold
-  "pokémon championship": "0xBA55D3",// MEDIUMORCHID
-  "pokemon championship": "0xBA55D3",// MEDIUMORCHID
   anime: "0x11806A", //Aqua
   animé: "0x11806A", //Aqua
   pokémon: "0x992D22", // Dark Red
@@ -254,10 +252,6 @@ function FormatHtmlTags(text) {
   } catch (err) {}
   formattedText = formattedText.split("<br />").join("\n");
   formattedText = formattedText.split("<br/>").join("\n");
-  formattedText = formattedText.split("</b>").join("**");
-  formattedText = formattedText.split("</ b>").join("**");
-  formattedText = formattedText.split("<b>").join("**");
-  formattedText = formattedText.split("<b>").join("**");
 
   let youtubeLinkConfirm = GetYoutubeLinks(formattedText);
 
