@@ -1,0 +1,621 @@
+{
+  "users": [
+    {
+      "username": "test",
+      "message": "test"
+    },
+    {
+      "username": "CalzoneB",
+      "message": {
+        "title": null,
+        "type": "rich",
+        "description": null,
+        "url": null,
+        "timestamp": null,
+        "color": 16766720,
+        "fields": [
+          {
+            "name": "Coming up next: Gigantamax Butterfree!",
+            "value": "Code: 1234 5678",
+            "inline": false
+          }
+        ],
+        "thumbnail": {
+          "url": "https://www.serebii.net/Shiny/SWSH/012-gi.png"
+        },
+        "image": null,
+        "author": {
+          "name": "CalzoneB is hosting!",
+          "icon_url": "https://cdn.discordapp.com/avatars/268487608680579072/5de2003626eb07d185b217b5ee36feb8.webp"
+        },
+        "footer": null
+      }
+    },
+    {
+      "username": "loveballzigzagoon",
+      "message": {
+        "type": "rich",
+        "timestamp": null,
+        "color": 16766720,
+        "fields": [
+          {
+            "name": "Coming up next: Kabuto!",
+            "value": "Code: No code needed!",
+            "inline": false
+          }
+        ],
+        "thumbnail": {
+          "url": "https://www.serebii.net/Shiny/SWSH/140.png"
+        },
+        "image": null,
+        "author": {
+          "name": "loveballzigzagoon is hosting!",
+          "icon_url": "https://cdn.discordapp.com/avatars/199975890082332672/3e87ac0158c1e1d8400e99721a1583a7.webp"
+        },
+        "footer": null
+      }
+    },
+    {
+      "username": "christianhammy",
+      "message": {
+        "type": "rich",
+        "timestamp": null,
+        "color": 16766720,
+        "fields": [
+          {
+            "name": "Coming up next: Kabutops!",
+            "value": "Code: :20182018",
+            "inline": false
+          }
+        ],
+        "thumbnail": {
+          "url": "https://www.serebii.net/Shiny/SWSH/141.png"
+        },
+        "image": null,
+        "author": {
+          "name": "christianhammy is hosting!",
+          "icon_url": "https://cdn.discordapp.com/avatars/284530844826206220/328e76be703bf3ea80cee83def2a5b9c.webp"
+        },
+        "footer": null
+      }
+    },
+    {
+      "username": "Moonℓเɠɦƭ",
+      "message": {
+        "type": "rich",
+        "timestamp": null,
+        "color": 16766720,
+        "fields": [
+          {
+            "name": "Coming up next: Goodra!",
+            "value": "Code: No code needed!",
+            "inline": false
+          }
+        ],
+        "thumbnail": {
+          "url": "https://www.serebii.net/Shiny/SWSH/706.png"
+        },
+        "image": null,
+        "author": {
+          "name": "Moonℓเɠɦƭ is hosting!",
+          "icon_url": "https://cdn.discordapp.com/avatars/286289926016991233/3848e8a5a9fecc0bf408c2c9a0453e9f.webp"
+        },
+        "footer": null
+      }
+    },
+    {
+      "username": "Apollo458",
+      "message": {
+        "type": "rich",
+        "timestamp": null,
+        "color": 16766720,
+        "fields": [],
+        "thumbnail": null,
+        "image": {
+          "url": "https://cdn.glitch.com/59bb141b-c323-4e6e-86e3-ea46f9f062cf%2Fclassic_pinsirbot.png?v=1597703026332"
+        },
+        "author": {
+          "name": "Apollo458 is hosting!"
+        },
+        "footer": {
+          "text": "Image by silver#7472",
+          "icon_url": "https://cdn.glitch.com/59bb141b-c323-4e6e-86e3-ea46f9f062cf%2Fsilver.png?v=1597704076569"
+        }
+      }
+    }
+  ],
+  "pinMessages": [
+    {
+      "username": "test",
+      "message": "test",
+      "messageId": "test"
+    },
+    {
+      "username": "CalzoneB",
+      "message": {
+        "channelID": "795969737178742805",
+        "deleted": false,
+        "id": "798256690231246869",
+        "type": "DEFAULT",
+        "system": false,
+        "content": "Hosting: [Star/Square] [Pokemon], [Gender] | [Den #] \nDuration: \nFC: \nSN: \nIGN: \nRaid code: \nRules/stipulations: \n- Rule 1 \n- Rule 2 \n- Rule 3...",
+        "authorID": "268487608680579072",
+        "pinned": false,
+        "tts": false,
+        "nonce": null,
+        "embeds": [],
+        "attachments": [],
+        "createdTimestamp": 1610389625843,
+        "editedTimestamp": 0,
+        "webhookID": null,
+        "applicationID": null,
+        "activity": null,
+        "flags": 0,
+        "reference": null,
+        "guildID": "794266230399434832",
+        "cleanContent": "Hosting: [Star/Square] [Pokemon], [Gender] | [Den #] \nDuration: \nFC: \nSN: \nIGN: \nRaid code: \nRules/stipulations: \n- Rule 1 \n- Rule 2 \n- Rule 3..."
+      },
+      "messageId": "798256690231246869"
+    },
+    {
+      "username": "Kanyuu|Stan - 1122 1122",
+      "message": {
+        "channelID": "795969737178742805",
+        "deleted": false,
+        "id": "805641069303038032",
+        "type": "DEFAULT",
+        "system": false,
+        "content": "Hosting: Square Shiny Baby Promo\nSN: Fanyuu (different from my Kanyuu & Hanyuu one)\nIGN: Stanley\nRaid code: 1122 1122\nRequest(s):\n- Ready up by 2 minute mark\n- Hosts only, please ping me with your SN so I can move you over to exception list\n- No DMs\n- Unless you're a host, please **delete me** from your friends list after you're done\n\nIf you're not a host and kept me on your friends list, you may be blocked the next time I host\nRead? OK, click below\n||Did you really read all that?||\n||FC: 3080-6063-4064||\n<@&797668144184295434>",
+        "authorID": "390724427115003915",
+        "pinned": true,
+        "tts": false,
+        "nonce": null,
+        "embeds": [],
+        "attachments": [
+          "805641069114687518"
+        ],
+        "createdTimestamp": 1612150199009,
+        "editedTimestamp": 0,
+        "webhookID": null,
+        "applicationID": null,
+        "activity": null,
+        "flags": 0,
+        "reference": null,
+        "guildID": "794266230399434832",
+        "cleanContent": "Hosting: Square Shiny Baby Promo\nSN: Fanyuu (different from my Kanyuu & Hanyuu one)\nIGN: Stanley\nRaid code: 1122 1122\nRequest(s):\n- Ready up by 2 minute mark\n- Hosts only, please ping me with your SN so I can move you over to exception list\n- No DMs\n- Unless you're a host, please **delete me** from your friends list after you're done\n\nIf you're not a host and kept me on your friends list, you may be blocked the next time I host\nRead? OK, click below\n||Did you really read all that?||\n||FC: 3080-6063-4064||\n@Raiders"
+      },
+      "messageId": "805641069303038032"
+    },
+    {
+      "username": "Moonℓเɠɦƭ",
+      "message": {
+        "channelID": "795969737178742805",
+        "deleted": false,
+        "id": "798391258795606026",
+        "type": "DEFAULT",
+        "system": false,
+        "content": "Hosting: Square Shiny Rolling Dragon | Den 131\nDuration: 30-45 mins\nFC: 0901-0996-4109\nSN: Alexandra\nIGN: Alexandra\nRaid code: 1204 1122 or FFA\nRules/stipulations: \n- Ping me if you add me!\n- Doing two raids then roll\n- Have fun!!",
+        "authorID": "286289926016991233",
+        "pinned": true,
+        "tts": false,
+        "nonce": null,
+        "embeds": [],
+        "attachments": [
+          "798391258635960320"
+        ],
+        "createdTimestamp": 1610421709489,
+        "editedTimestamp": 0,
+        "webhookID": null,
+        "applicationID": null,
+        "activity": null,
+        "flags": 0,
+        "reference": null,
+        "guildID": "794266230399434832",
+        "cleanContent": "Hosting: Square Shiny Rolling Dragon | Den 131\nDuration: 30-45 mins\nFC: 0901-0996-4109\nSN: Alexandra\nIGN: Alexandra\nRaid code: 1204 1122 or FFA\nRules/stipulations: \n- Ping me if you add me!\n- Doing two raids then roll\n- Have fun!!"
+      },
+      "messageId": "798391258795606026"
+    },
+    {
+      "username": "loveballzigzagoon",
+      "message": {
+        "channelID": "795969737178742805",
+        "deleted": false,
+        "id": "798615169772683284",
+        "type": "DEFAULT",
+        "system": false,
+        "content": "<@&797668144184295434> gm all yall, heres some ladies\n\n**Auto-Hosting:** Auto-Rotating Square Shiny Den 68\n> *Available Pokemon:* Hatenna, Hatrem, Bronzong, Swoobat, Malamar, Mr. Rime, Hatterene, Espeon\n> 4-5 star pokemon will have 1 Speed IV, anything that can have HA will be HA, otherwise they'll have ability 1. Most are Female. \n**Duration:** At least 12 hrs, probably longer. If this is pinned, it's going\n**Raid Code:** 1111 4444 or FFA\n\n**Rules/Extras:**\n> - Ready up by the 2 min mark, otherwise the raid will crash. \n> -- Bot auto-adds between raids \n> - Remove me by **One Hour** after I'm done hosting, otherwise I will block you. If you didn't have to add, you don't have to remove. \n> -- **Ping** but **Do Not DM** me if the bot seems to be having issues. \n> - I'm busy today and will not have time to stop for specific pokemon or unblock people. Good luck! \n\n**FC:** 1486 5859 8092\n> **SN:** Terry\n> **IGN:** Terry",
+        "authorID": "199975890082332672",
+        "pinned": true,
+        "tts": false,
+        "nonce": null,
+        "embeds": [],
+        "attachments": [],
+        "createdTimestamp": 1610475094026,
+        "editedTimestamp": 0,
+        "webhookID": null,
+        "applicationID": null,
+        "activity": null,
+        "flags": 0,
+        "reference": null,
+        "guildID": "794266230399434832",
+        "cleanContent": "@Raiders gm all yall, heres some ladies\n\n**Auto-Hosting:** Auto-Rotating Square Shiny Den 68\n> *Available Pokemon:* Hatenna, Hatrem, Bronzong, Swoobat, Malamar, Mr. Rime, Hatterene, Espeon\n> 4-5 star pokemon will have 1 Speed IV, anything that can have HA will be HA, otherwise they'll have ability 1. Most are Female. \n**Duration:** At least 12 hrs, probably longer. If this is pinned, it's going\n**Raid Code:** 1111 4444 or FFA\n\n**Rules/Extras:**\n> - Ready up by the 2 min mark, otherwise the raid will crash. \n> -- Bot auto-adds between raids \n> - Remove me by **One Hour** after I'm done hosting, otherwise I will block you. If you didn't have to add, you don't have to remove. \n> -- **Ping** but **Do Not DM** me if the bot seems to be having issues. \n> - I'm busy today and will not have time to stop for specific pokemon or unblock people. Good luck! \n\n**FC:** 1486 5859 8092\n> **SN:** Terry\n> **IGN:** Terry"
+      },
+      "messageId": "798615169772683284"
+    },
+    {
+      "username": "Apollo458",
+      "message": {
+        "channelID": "795969737178742805",
+        "deleted": false,
+        "id": "805133132302909494",
+        "type": "DEFAULT",
+        "system": false,
+        "content": "**AutoHosting: Star Shiny Shield Baby Den 3  [Female, Ab1]**\n\nBonsly, Binacle, Roggenrola, Dwebble - 31 Atk / 1 Spe\nRhyhorn, Boldore - 31 HP / 31 Atk / 1 Spe\n\nFC: SW-6904-8866-6869 (Bot will add you)\nSN: Apollo\nIGN: Phoenix\nRaid code: 1111 5555\n\n  Rules/stipulations: \n> - Raid is live while the pin is up, will host for several hours.\n> - Bot will add you, ready up by 2 mins or raid cancels / freezes!! It's a baby den, doesn't really matter what you use!!\n> - Feel free to keep me added as long as you are active.\n> - No real need to ping me, bot should run fairly smoothly. If a raid freezes the timing will reset for next one, so plz be patient.\n> - DD and catch what you want.",
+        "authorID": "699949399106781216",
+        "pinned": true,
+        "tts": false,
+        "nonce": null,
+        "embeds": [],
+        "attachments": [],
+        "createdTimestamp": 1612029097391,
+        "editedTimestamp": 0,
+        "webhookID": null,
+        "applicationID": null,
+        "activity": null,
+        "flags": 0,
+        "reference": null,
+        "guildID": "794266230399434832",
+        "cleanContent": "**AutoHosting: Star Shiny Shield Baby Den 3  [Female, Ab1]**\n\nBonsly, Binacle, Roggenrola, Dwebble - 31 Atk / 1 Spe\nRhyhorn, Boldore - 31 HP / 31 Atk / 1 Spe\n\nFC: SW-6904-8866-6869 (Bot will add you)\nSN: Apollo\nIGN: Phoenix\nRaid code: 1111 5555\n\n  Rules/stipulations: \n> - Raid is live while the pin is up, will host for several hours.\n> - Bot will add you, ready up by 2 mins or raid cancels / freezes!! It's a baby den, doesn't really matter what you use!!\n> - Feel free to keep me added as long as you are active.\n> - No real need to ping me, bot should run fairly smoothly. If a raid freezes the timing will reset for next one, so plz be patient.\n> - DD and catch what you want."
+      },
+      "messageId": "805133132302909494"
+    },
+    {
+      "username": "FriendBallZack",
+      "message": {
+        "channelID": "795969737178742805",
+        "deleted": false,
+        "id": "799055548615753879",
+        "type": "DEFAULT",
+        "system": false,
+        "content": "**Hosting**: Star 💫 shiny Absol\nDuration: hour or so \nFC: 4453-6231-3049 \nSN: Zack\nIGN: Zack\nRaid code: FFA\n\nCome grab one so I can close this den <a:froglick:796898934282387476> \n\n<@&797668144184295434>  <:Coolzard:709203614731862116>",
+        "authorID": "668998420815675422",
+        "pinned": false,
+        "tts": false,
+        "nonce": null,
+        "embeds": [],
+        "attachments": [],
+        "createdTimestamp": 1610580088524,
+        "editedTimestamp": 0,
+        "webhookID": null,
+        "applicationID": null,
+        "activity": null,
+        "flags": 0,
+        "reference": null,
+        "guildID": "794266230399434832",
+        "cleanContent": "**Hosting**: Star 💫 shiny Absol\nDuration: hour or so \nFC: 4453-6231-3049 \nSN: Zack\nIGN: Zack\nRaid code: FFA\n\nCome grab one so I can close this den <a:froglick:796898934282387476> \n\n@Raiders  <:Coolzard:709203614731862116>"
+      },
+      "messageId": "799055548615753879"
+    },
+    {
+      "username": "christianhammy",
+      "message": {
+        "channelID": "795969737178742805",
+        "deleted": false,
+        "id": "805566908010332180",
+        "type": "DEFAULT",
+        "system": false,
+        "content": "Baby Den 17 shield (common)\n\nShiny Type: 🌟\nType: *ground* \nWeakness: *water, grass, ice*\n\nRaid Level: *1&2*\n \n**FC:** 5442-1062-3930\n**IGN:** Haleyk\n**Code:** FFA or 2018 X2\n\n>I’m going to just be putting up stamps and not monitoring chat. Will stay on each mon until people quit joining! \n>feel free to keep me added if you’re another host or a common raider who hits me up! If not please remove \n\nGood spot to <@&797668144184295434>",
+        "authorID": "284530844826206220",
+        "pinned": true,
+        "tts": false,
+        "nonce": null,
+        "embeds": [],
+        "attachments": [],
+        "createdTimestamp": 1612132517579,
+        "editedTimestamp": 1612132580892,
+        "webhookID": null,
+        "applicationID": null,
+        "activity": null,
+        "flags": 0,
+        "reference": null,
+        "guildID": "794266230399434832",
+        "cleanContent": "Baby Den 17 shield (common)\n\nShiny Type: 🌟\nType: *ground* \nWeakness: *water, grass, ice*\n\nRaid Level: *1&2*\n \n**FC:** 5442-1062-3930\n**IGN:** Haleyk\n**Code:** FFA or 2018 X2\n\n>I’m going to just be putting up stamps and not monitoring chat. Will stay on each mon until people quit joining! \n>feel free to keep me added if you’re another host or a common raider who hits me up! If not please remove \n\nGood spot to @Raiders"
+      },
+      "messageId": "805566908010332180"
+    }
+  ],
+  "liveGiveawayPinMessages": [
+    {
+      "username": "test",
+      "message": "test",
+      "messageId": "test"
+    }
+  ],
+  "giveaways": [
+    {
+      "username": "name",
+      "timeUntilMute": "Date()"
+    },
+    {
+      "username": "365527977020227595",
+      "message": "",
+      "timeUntilMute": "2021-01-08T08:28:04.974Z"
+    },
+    {
+      "username": "662499026230444034",
+      "message": "",
+      "timeUntilMute": ""
+    },
+    {
+      "username": "284530844826206220",
+      "message": "",
+      "timeUntilMute": "2021-02-14T06:23:33.609Z"
+    },
+    {
+      "username": "783253958600032256",
+      "message": "",
+      "timeUntilMute": "2021-02-15T09:01:02.381Z"
+    },
+    {
+      "username": "187365079853957120",
+      "message": "",
+      "timeUntilMute": "2021-03-22T03:35:37.943Z"
+    },
+    {
+      "username": "459153725030662154",
+      "message": "",
+      "timeUntilMute": ""
+    },
+    {
+      "username": "741789960734244874",
+      "message": "",
+      "timeUntilMute": "2021-05-19T03:00:54.473Z"
+    },
+    {
+      "username": "371059885221085189",
+      "message": "",
+      "timeUntilMute": ""
+    }
+  ],
+  "dynamax": [
+    {
+      "username": "name1",
+      "pokemon": [
+        "entry1",
+        "entry2",
+        "entry3"
+      ],
+      "searching": "pokemonName"
+    },
+    {
+      "username": "name2",
+      "pokemon": [
+        "entry1",
+        "entry2",
+        "entry3"
+      ],
+      "searching": "pokemonName",
+      "userId": "id"
+    }
+  ],
+  "platform": [
+    {
+      "userId": "0123456",
+      "username": "testUser",
+      "switch": [
+        "switch",
+        "123456789100"
+      ],
+      "ps": "playstation",
+      "xbox": "xbox",
+      "steam": [
+        "steam",
+        "12345678"
+      ],
+      "epic": "epic",
+      "battlenet": "battlenet",
+      "origin": "origin",
+      "uplay": "uplay"
+    },
+    {
+      "userId": "42424242",
+      "username": "testUser2",
+      "switch": [
+        "switch",
+        "123456789100"
+      ],
+      "ps": "playstation",
+      "xbox": "xbox",
+      "steam": [
+        "steam",
+        "12345678"
+      ],
+      "epic": "epic",
+      "battlenet": "battlenet",
+      "origin": "origin",
+      "uplay": "uplay"
+    },
+    {
+      "userId": "268487608680579072",
+      "username": "CalzoneB",
+      "switch": [
+        "Calum",
+        "SW-2416-9513-9218"
+      ],
+      "ps": "ChaosZero42",
+      "xbox": "Ultima Chaos Z",
+      "steam": [
+        "CalzoneB",
+        "38908914"
+      ],
+      "epic": "CalzoneB",
+      "battlenet": "CalzoneB#4256",
+      "origin": "n/a",
+      "uplay": "n/a"
+    },
+    {
+      "userId": "365527977020227595",
+      "username": "clow cards",
+      "switch": [
+        "cloud",
+        "SW-7419-2255-1997"
+      ],
+      "ps": "n/a",
+      "xbox": "n/a",
+      "steam": [
+        "n/a",
+        "n/a"
+      ],
+      "epic": "n/a",
+      "battlenet": "n/a",
+      "origin": "n/a",
+      "uplay": "n/a"
+    },
+    {
+      "userId": "662499026230444034",
+      "username": "daniellekaterina",
+      "switch": [
+        "n/a",
+        "n/a"
+      ],
+      "ps": "n/a",
+      "xbox": "n/a",
+      "steam": [
+        "n/a",
+        "n/a"
+      ],
+      "epic": "n/a",
+      "battlenet": "n/a",
+      "origin": "n/a",
+      "uplay": "n/a"
+    },
+    {
+      "userId": "199975890082332672",
+      "username": "loveballzigzagoon",
+      "switch": [
+        "n/a",
+        "n/a"
+      ],
+      "ps": "n/a",
+      "xbox": "KChro1c",
+      "steam": [
+        "【KChronic】",
+        "101359320"
+      ],
+      "epic": "n/a",
+      "battlenet": "KChronic#11961",
+      "origin": "n/a",
+      "uplay": "n/a"
+    },
+    {
+      "userId": "741789960734244874",
+      "username": "Pokémon Trainer Red",
+      "switch": [
+        "AJ",
+        "SW-0891-4495-6894"
+      ],
+      "ps": "n/a",
+      "xbox": "n/a",
+      "steam": [
+        "n/a",
+        "n/a"
+      ],
+      "epic": "n/a",
+      "battlenet": "n/a",
+      "origin": "n/a",
+      "uplay": "n/a"
+    },
+    {
+      "userId": "371059885221085189",
+      "username": "Tomato",
+      "switch": [
+        "Alex",
+        "SW-8304-6453-4520"
+      ],
+      "ps": "n/a",
+      "xbox": "DrawnDoor58961",
+      "steam": [
+        "n/a",
+        "n/a"
+      ],
+      "epic": "Drawndoor538",
+      "battlenet": "n/a",
+      "origin": "n/a",
+      "uplay": "n/a"
+    },
+    {
+      "userId": "589307456769753099",
+      "username": "grungeseamonster",
+      "switch": [
+        "kaitmate",
+        "SW-6493-6063-2429"
+      ],
+      "ps": "n/a",
+      "xbox": "n/a",
+      "steam": [
+        "n/a",
+        "n/a"
+      ],
+      "epic": "n/a",
+      "battlenet": "n/a",
+      "origin": "n/a",
+      "uplay": "n/a"
+    }
+  ],
+  "ghUsers": [
+    {
+      "username": "PINsir-Bot",
+      "url": "https://www.youtube.com/watch?v=v2Ouf5LBhlk",
+      "videoTitle": "Get Lotto Lucky",
+      "userId": "794402740138016789"
+    },
+    {
+      "username": "STFU-READTHEPINS-BOT",
+      "url": "https://www.youtube.com/watch?v=0ABiVapvB00",
+      "videoTitle": "Ultimate Viridian",
+      "userId": "727925328734847006"
+    },
+    {
+      "username": "CalzoneB",
+      "url": "https://youtu.be/soj02WxJp-k",
+      "userId": "268487608680579072",
+      "videoTitle": "empty"
+    },
+    {
+      "username": "Ken9729",
+      "url": "https://www.youtube.com/watch?v=67TBPvjcjqg",
+      "userId": "387554574061535232"
+    },
+    {
+      "username": "Hazlee",
+      "url": "https://youtu.be/R-GO0uGH2wc",
+      "userId": "228982675145359371"
+    },
+    {
+      "username": "daniellekaterina",
+      "url": "https://www.youtube.com/watch?v=e6yShQ1mmcw",
+      "userId": "662499026230444034"
+    },
+    {
+      "username": "Pokémon Trainer Red",
+      "url": "https://youtu.be/PaDaoS2IDms",
+      "userId": "741789960734244874"
+    },
+    {
+      "username": "babylon",
+      "url": "https://youtu.be/S280Pqq3T_w",
+      "userId": "181229181152133121"
+    },
+    {
+      "username": "SaiyanofLegend",
+      "url": "https://www.youtube.com/watch?v=Jrg9KxGNeJY",
+      "userId": "662296070860046356"
+    },
+    {
+      "username": "BlackPatrick",
+      "url": "https://youtu.be/SPlQpGeTbIE",
+      "userId": "545424492080398347"
+    }
+  ],
+  "serebiiMessages": []
+}
